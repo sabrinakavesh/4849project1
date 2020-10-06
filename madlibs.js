@@ -39,30 +39,6 @@
 // }
 
 
-// alert("Hello World");
-/*CSS comment*/
-//JS comment
-
-// document.getElementById("adj1").innerHTML = "";
-// document.getElementById("adj2").innerHTML = "";
-// document.getElementById("noun1").innerHTML = "";
-// document.getElementById("noun2").innerHTML = "";
-// document.getElementById("plnoun1").innerHTML = "";
-// document.getElementById("game1").innerHTML = "";
-// document.getElementById("plnoun2").innerHTML = "";
-// document.getElementById("ingvrb1").innerHTML = "";
-// document.getElementById("ingvrb2").innerHTML = "";
-// document.getElementById("plnoun3").innerHTML = "";
-// document.getElementById("ingvrb3").innerHTML = "";
-// document.getElementById("noun3").innerHTML = "";
-// document.getElementById("plant").innerHTML = "";
-// document.getElementById("bodyprt").innerHTML = "";
-// document.getElementById("place").innerHTML = "";
-// document.getElementById("ingvrb4").innerHTML = "";
-// document.getElementById("adj3").innerHTML = "";
-// document.getElementById("num").innerHTML = "";
-// document.getElementById("plnoun4").innerHTML = "";
-
   document.getElementById("adj1").value = "";
   document.getElementById("adj2").value = "";
   document.getElementById("noun1").value = "";
